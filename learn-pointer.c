@@ -3,9 +3,9 @@
 int main(void)
 {
 	int a = 10;
-	int *p = &a;
+	int *str = &a;
 
 	printf("%d\n", a);
-	printf("%p\n", p);
-	printf("%d\n", *p);
+	printf("%p\n", str);
+	printf("%d\n", *str);
 }
