@@ -10,7 +10,7 @@ int main(void)
 
 		printf("%d\n", n);
 
-		countdown(n - 1);
+		countdown(n - 1); // this calls the function to go over and over as it's creating new function as it loops over and over again and it's called recursive case.
 	}
 
 	countdown(5);
