@@ -7,3 +7,5 @@ Today's will be I might drop out this year from bits college to pursue my colleg
 zare demo I'm watching world cup so I didn't do shit since I got home. mexico is leading.
 
 today we ain't doing shit.
+
+I almost missed my git commit this time as i submit this it's 2 minutes away from submission.`
