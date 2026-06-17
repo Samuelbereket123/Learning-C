@@ -9,3 +9,5 @@ zare demo I'm watching world cup so I didn't do shit since I got home. mexico is
 today we ain't doing shit.
 
 I almost missed my git commit this time as i submit this it's 2 minutes away from submission.`
+
+Eka eka new yeazachehut -sami (on dagi and nana topic)
